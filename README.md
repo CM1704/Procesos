@@ -7,7 +7,7 @@
 
 ## Descripción General
 
-Proyecto de pequeña escala desarrollado con **Flutter**, orientado a la integración y prueba de una API REST construida con **Node.js** y base de datos **MongoDB**. El sistema permite validar el flujo completo de comunicación, explorando operaciones básicas de consumo de datos, manejo de peticiones HTTP y persistencia de información en una base de datos.
+Proyecto de pequeña escala desarrollado con **JS**, orientado a la integración y prueba de una API REST construida con **Node.js** y base de datos **MongoDB**. El sistema permite validar el flujo completo de comunicación, explorando operaciones básicas de consumo de datos, manejo de peticiones HTTP y persistencia de información en una base de datos.
 
 ---
 
