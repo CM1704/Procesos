@@ -18,6 +18,10 @@ const itemSchema = new mongoose.Schema({
     type: Date,
     default: Date.now,
   },
+  horacreado: {
+    type: time,
+    default: time.now,
+  },
 });
 
 module.exports = mongoose.model("Item", itemSchema);
